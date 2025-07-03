@@ -1,0 +1,14 @@
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\bin\Debug\net9.0\Task2_Solution.exe
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\bin\Debug\net9.0\Task2_Solution.deps.json
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\bin\Debug\net9.0\Task2_Solution.runtimeconfig.json
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\bin\Debug\net9.0\Task2_Solution.dll
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\bin\Debug\net9.0\Task2_Solution.pdb
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\obj\Debug\net9.0\Task2_Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\obj\Debug\net9.0\Task2_Solution.AssemblyInfoInputs.cache
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\obj\Debug\net9.0\Task2_Solution.AssemblyInfo.cs
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\obj\Debug\net9.0\Task2_Solution.csproj.CoreCompileInputs.cache
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\obj\Debug\net9.0\Task2_Solution.dll
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\obj\Debug\net9.0\refint\Task2_Solution.dll
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\obj\Debug\net9.0\Task2_Solution.pdb
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\obj\Debug\net9.0\Task2_Solution.genruntimeconfig.cache
+D:\ITI_.Net_SummerTraining\Day4\Tasks_Solution\Task2_Solution\obj\Debug\net9.0\ref\Task2_Solution.dll
