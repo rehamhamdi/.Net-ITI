@@ -1,0 +1,14 @@
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\bin\Debug\net9.0\One-Dimensional Array.exe
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\bin\Debug\net9.0\One-Dimensional Array.deps.json
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\bin\Debug\net9.0\One-Dimensional Array.runtimeconfig.json
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\bin\Debug\net9.0\One-Dimensional Array.dll
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\bin\Debug\net9.0\One-Dimensional Array.pdb
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\obj\Debug\net9.0\One-Dimensional Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\obj\Debug\net9.0\One-Dimensional Array.AssemblyInfoInputs.cache
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\obj\Debug\net9.0\One-Dimensional Array.AssemblyInfo.cs
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\obj\Debug\net9.0\One-Dimensional Array.csproj.CoreCompileInputs.cache
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\obj\Debug\net9.0\One-Dimensional Array.dll
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\obj\Debug\net9.0\refint\One-Dimensional Array.dll
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\obj\Debug\net9.0\One-Dimensional Array.pdb
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\obj\Debug\net9.0\One-Dimensional Array.genruntimeconfig.cache
+D:\ITI_.Net_SummerTraining\Day4\Day2_Tasks\One-Dimensional Array\obj\Debug\net9.0\ref\One-Dimensional Array.dll
