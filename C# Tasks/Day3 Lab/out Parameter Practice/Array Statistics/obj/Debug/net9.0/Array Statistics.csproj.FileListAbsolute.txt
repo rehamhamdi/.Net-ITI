@@ -1,0 +1,14 @@
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\bin\Debug\net9.0\Array Statistics.exe
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\bin\Debug\net9.0\Array Statistics.deps.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\bin\Debug\net9.0\Array Statistics.runtimeconfig.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\bin\Debug\net9.0\Array Statistics.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\bin\Debug\net9.0\Array Statistics.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\obj\Debug\net9.0\Array Statistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\obj\Debug\net9.0\Array Statistics.AssemblyInfoInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\obj\Debug\net9.0\Array Statistics.AssemblyInfo.cs
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\obj\Debug\net9.0\Array Statistics.csproj.CoreCompileInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\obj\Debug\net9.0\Array Statistics.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\obj\Debug\net9.0\refint\Array Statistics.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\obj\Debug\net9.0\Array Statistics.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\obj\Debug\net9.0\Array Statistics.genruntimeconfig.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Array Statistics\obj\Debug\net9.0\ref\Array Statistics.dll

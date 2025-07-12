@@ -1,0 +1,14 @@
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\bin\Debug\net9.0\Division Helper.exe
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\bin\Debug\net9.0\Division Helper.deps.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\bin\Debug\net9.0\Division Helper.runtimeconfig.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\bin\Debug\net9.0\Division Helper.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\bin\Debug\net9.0\Division Helper.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\obj\Debug\net9.0\Division Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\obj\Debug\net9.0\Division Helper.AssemblyInfoInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\obj\Debug\net9.0\Division Helper.AssemblyInfo.cs
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\obj\Debug\net9.0\Division Helper.csproj.CoreCompileInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\obj\Debug\net9.0\Division Helper.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\obj\Debug\net9.0\refint\Division Helper.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\obj\Debug\net9.0\Division Helper.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\obj\Debug\net9.0\Division Helper.genruntimeconfig.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Division Helper\obj\Debug\net9.0\ref\Division Helper.dll
