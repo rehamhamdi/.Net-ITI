@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Increase Salary/1.0.0": {
+        "runtime": {
+          "Increase Salary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Increase Salary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\bin\Debug\net9.0\Increase Salary.exe
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\bin\Debug\net9.0\Increase Salary.deps.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\bin\Debug\net9.0\Increase Salary.runtimeconfig.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\bin\Debug\net9.0\Increase Salary.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\bin\Debug\net9.0\Increase Salary.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\obj\Debug\net9.0\Increase Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\obj\Debug\net9.0\Increase Salary.AssemblyInfoInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\obj\Debug\net9.0\Increase Salary.AssemblyInfo.cs
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\obj\Debug\net9.0\Increase Salary.csproj.CoreCompileInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\obj\Debug\net9.0\Increase Salary.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\obj\Debug\net9.0\refint\Increase Salary.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\obj\Debug\net9.0\Increase Salary.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\obj\Debug\net9.0\Increase Salary.genruntimeconfig.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Increase Salary\obj\Debug\net9.0\ref\Increase Salary.dll

@@ -1,0 +1,28 @@
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\bin\Debug\net9.0\Swap Two Numbers.exe
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\bin\Debug\net9.0\Swap Two Numbers.deps.json
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\bin\Debug\net9.0\Swap Two Numbers.runtimeconfig.json
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\bin\Debug\net9.0\Swap Two Numbers.dll
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\bin\Debug\net9.0\Swap Two Numbers.pdb
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.AssemblyInfoInputs.cache
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.AssemblyInfo.cs
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.csproj.CoreCompileInputs.cache
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.dll
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\obj\Debug\net9.0\refint\Swap Two Numbers.dll
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.pdb
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.genruntimeconfig.cache
+D:\ITI_.Net_SummerTraining\Day4\lab3\Swap Two Numbers\obj\Debug\net9.0\ref\Swap Two Numbers.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\bin\Debug\net9.0\Swap Two Numbers.exe
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\bin\Debug\net9.0\Swap Two Numbers.deps.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\bin\Debug\net9.0\Swap Two Numbers.runtimeconfig.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\bin\Debug\net9.0\Swap Two Numbers.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\bin\Debug\net9.0\Swap Two Numbers.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.AssemblyInfoInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.AssemblyInfo.cs
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.csproj.CoreCompileInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\obj\Debug\net9.0\refint\Swap Two Numbers.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\obj\Debug\net9.0\Swap Two Numbers.genruntimeconfig.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\ref Parameter Practice\Swap Two Numbers\obj\Debug\net9.0\ref\Swap Two Numbers.dll
