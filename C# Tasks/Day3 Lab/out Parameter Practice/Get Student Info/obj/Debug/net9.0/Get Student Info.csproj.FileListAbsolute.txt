@@ -1,0 +1,14 @@
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\bin\Debug\net9.0\Get Student Info.exe
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\bin\Debug\net9.0\Get Student Info.deps.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\bin\Debug\net9.0\Get Student Info.runtimeconfig.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\bin\Debug\net9.0\Get Student Info.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\bin\Debug\net9.0\Get Student Info.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\obj\Debug\net9.0\Get Student Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\obj\Debug\net9.0\Get Student Info.AssemblyInfoInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\obj\Debug\net9.0\Get Student Info.AssemblyInfo.cs
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\obj\Debug\net9.0\Get Student Info.csproj.CoreCompileInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\obj\Debug\net9.0\Get Student Info.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\obj\Debug\net9.0\refint\Get Student Info.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\obj\Debug\net9.0\Get Student Info.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\obj\Debug\net9.0\Get Student Info.genruntimeconfig.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Get Student Info\obj\Debug\net9.0\ref\Get Student Info.dll

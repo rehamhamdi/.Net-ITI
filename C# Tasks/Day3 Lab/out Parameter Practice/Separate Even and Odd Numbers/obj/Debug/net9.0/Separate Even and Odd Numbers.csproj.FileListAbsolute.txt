@@ -1,0 +1,14 @@
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\bin\Debug\net9.0\Separate Even and Odd Numbers.exe
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\bin\Debug\net9.0\Separate Even and Odd Numbers.deps.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\bin\Debug\net9.0\Separate Even and Odd Numbers.runtimeconfig.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\bin\Debug\net9.0\Separate Even and Odd Numbers.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\bin\Debug\net9.0\Separate Even and Odd Numbers.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\obj\Debug\net9.0\Separate Even and Odd Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\obj\Debug\net9.0\Separate Even and Odd Numbers.AssemblyInfoInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\obj\Debug\net9.0\Separate Even and Odd Numbers.AssemblyInfo.cs
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\obj\Debug\net9.0\Separate Even and Odd Numbers.csproj.CoreCompileInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\obj\Debug\net9.0\Separate Even and Odd Numbers.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\obj\Debug\net9.0\refint\Separate Even and Odd Numbers.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\obj\Debug\net9.0\Separate Even and Odd Numbers.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\obj\Debug\net9.0\Separate Even and Odd Numbers.genruntimeconfig.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Separate Even and Odd Numbers\obj\Debug\net9.0\ref\Separate Even and Odd Numbers.dll

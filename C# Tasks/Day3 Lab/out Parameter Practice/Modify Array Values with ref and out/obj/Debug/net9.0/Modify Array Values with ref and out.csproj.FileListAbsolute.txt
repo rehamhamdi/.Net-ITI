@@ -1,0 +1,14 @@
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\bin\Debug\net9.0\Modify Array Values with ref and out.exe
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\bin\Debug\net9.0\Modify Array Values with ref and out.deps.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\bin\Debug\net9.0\Modify Array Values with ref and out.runtimeconfig.json
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\bin\Debug\net9.0\Modify Array Values with ref and out.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\bin\Debug\net9.0\Modify Array Values with ref and out.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\obj\Debug\net9.0\Modify Array Values with ref and out.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\obj\Debug\net9.0\Modify Array Values with ref and out.AssemblyInfoInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\obj\Debug\net9.0\Modify Array Values with ref and out.AssemblyInfo.cs
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\obj\Debug\net9.0\Modify Array Values with ref and out.csproj.CoreCompileInputs.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\obj\Debug\net9.0\Modify Array Values with ref and out.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\obj\Debug\net9.0\refint\Modify Array Values with ref and out.dll
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\obj\Debug\net9.0\Modify Array Values with ref and out.pdb
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\obj\Debug\net9.0\Modify Array Values with ref and out.genruntimeconfig.cache
+D:\ITI_.Net_SummerTraining\2-C#\Day 3\out Parameter Practice\Modify Array Values with ref and out\obj\Debug\net9.0\ref\Modify Array Values with ref and out.dll
